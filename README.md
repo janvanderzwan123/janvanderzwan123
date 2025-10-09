@@ -2,28 +2,43 @@
 
 <img align="right" src="https://images.unsplash.com/photo-1634693654243-a4f03785cba4?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bW9uc3RlciUyMGVuZXJneSUyMGRyaW5rfGVufDB8fDB8fHww" width="180" alt="My fuel (Monster Energy)" />
 
-💻 **Software developer | Maker**
+💻 **Fullstack Software Developer | Maker | Hacker**  
 
-I'm passionate about building things — from **code** to **circuits** to **3D prints**.  
-I love pushing boundaries, experimenting, and learning how stuff really works (and sometimes breaking it to find out 😎).
-
----
-
-### 🧠 What I’m into
-- 🧰 **Software development** – web, backend, embedded, automation  
-- ⚡ **Electronics** – Arduino, sensors, breadboarding
-- 🧩 **3D printing** – designing and prototyping functional parts  
-- 🔐 **Hacking & tinkering** – exploring systems, optimizing, experimenting  
-- 🍔 **Frikandelbroodjes and wayy too much Monster Energy** - my daily fuel
+I’m all about creating and hacking things — from web apps to satcom tools, embedded systems, and 3D-printed gadgets.
+I love pushing limits, exploring how stuff really works, and sometimes bending it until it breaks — just to understand it better.
+When I’m not coding, I’m playing guitar or fueling up on Monster Energy for my next project.
 
 ---
 
-### 🔧 Tech stack
-```text
-Languages:   Python, PHP, JavaScript, C#, C/C++
-Frameworks:  .NET, Node.js, Joomla, Flutter
-Tools:       Git, Docker, VS Code, Linux, ESP32, Arduino
-```
+### 🛠 Tech Stack & Tools
+- **Web:** HTML, CSS, JS, PHP, Laravel, React  
+- **Backend:** Node.js, Django, .NET, MySQL, PostgreSQL  
+- **Mobile & Desktop:** Flutter, Electron, Android  
+- **Other Skills:** Python, C#, Linux, Docker, DevOps  
+
+---
+
+### 🔧 What I’m working on
+- **Satcom company:** professional work  
+- **Personal projects:** tinkering with web apps, development of guitarist app and the development of a multi platform communications app
+
+---
+
+### About me
+- Metal guitarist in a band  
+- Obsessed with **Monster Energy** and frikandelbroodjes  
+- Hackerish by nature: exploring systems, tinkering, and optimizing  
+
+---
+
+### 📫 Connect with me
+- [GitHub](https://github.com/janvanderzwan123)  
+- [LinkedIn](https://nl.linkedin.com/in/jan-van-der-zwan-a2376a1b7)  
+- [Email](mailto:j.vanderzwan@deboermarine.nl)  
+
+---
+
+> “If it works, don't touch it.”
 
 ---
 
