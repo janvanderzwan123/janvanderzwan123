@@ -1,7 +1,5 @@
 # 👋 Hey, I'm Jan
 
-<img align="right" src="https://images.unsplash.com/photo-1634693654243-a4f03785cba4?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bW9uc3RlciUyMGVuZXJneSUyMGRyaW5rfGVufDB8fDB8fHww" width="180" alt="My fuel (Monster Energy)" />
-
 💻 **Fullstack Software Developer | Maker | Hacker**  
 
 I’m all about creating and hacking things — from web apps to satcom tools, embedded systems, and 3D-printed gadgets.
@@ -26,7 +24,7 @@ When I’m not coding, I’m playing guitar or fueling up on Monster Energy for 
 
 ### About me
 - Metal guitarist in a band  
-- Obsessed with **Monster Energy** and frikandelbroodjes  
+- Obsessed with **Monster Energy** 
 - Hackerish by nature: exploring systems, tinkering, and optimizing  
 
 ---
